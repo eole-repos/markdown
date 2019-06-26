@@ -1,6 +1,6 @@
 {
     "type": "package",
-    "name": "elm-explorations/markdown",
+    "name": "eole-repos/markdown",
     "summary": "Fast markdown parsing and rendering",
     "license": "BSD-3-Clause",
     "version": "1.0.0",
