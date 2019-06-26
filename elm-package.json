@@ -1,9 +1,10 @@
 {
-    "type": "package",
-    "name": "eole-repos/markdown",
+    "version": "1.0.0",
     "summary": "Fast markdown parsing and rendering",
     "license": "BSD-3-Clause",
-    "version": "1.0.0",
+    "source-directories": [
+        "src"
+    ],
     "exposed-modules": [
         "Markdown"
     ],
@@ -11,7 +12,5 @@
     "dependencies": {
         "elm/core": "1.0.0 <= v < 2.0.0",
         "elm/html": "1.0.0 <= v < 2.0.0"
-    },
-    "test-dependencies": {
     }
 }
